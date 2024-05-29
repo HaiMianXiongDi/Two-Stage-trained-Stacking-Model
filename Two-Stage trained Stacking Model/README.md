@@ -2,14 +2,16 @@
 The experiment project of Two-Stage trained Stacking Model
 
 ## environment setting
-conda create -n env-StageTwoStacking python=3.9
-conda activate env-StageTwoStacking
 
-conda install numpy
-conda install scikit-learn
-conda install matplotlib
-conda install pandas 
-conda install xgboost
+```bash
+conda create -n env-StageTwoStacking python=3.9  
+conda activate env-StageTwoStacking  
+
+conda install numpy  
+conda install scikit-learn  
+conda install matplotlib  
+conda install pandas    
+conda install xgboost  
 
 
 
