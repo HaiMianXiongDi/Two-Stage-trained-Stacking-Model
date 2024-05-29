@@ -1,7 +1,7 @@
 # Two-Stage-trained-Stacking-Model
 The experiment project of Two-Stage trained Stacking Model
 
--------------------------environment setting------------------------
+##-------------------------environment setting------------------------
 conda create -n env-StageTwoStacking python=3.9
 conda activate env-StageTwoStacking
 
@@ -13,7 +13,7 @@ conda install xgboost
 
 
 
--------------------------How to use------------------------
+##-------------------------How to use------------------------
 To predict your data, please place your CSV file into the 'Datasets' folder. Then, open StackingFun-TwoStage and modify the 'self.csv_file_name' in the 'init' function to match the name of your file. The project comes with three datasets by default:
 
 'Temp'
