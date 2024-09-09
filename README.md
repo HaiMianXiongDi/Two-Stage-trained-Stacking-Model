@@ -3,7 +3,7 @@ The experiment project of Two-Stage trained Stacking Model
 
 ## environment setting
 You need to have Conda or Miniconda installed. Then, open your command prompt or terminal and enter the following commands to create a new environment and install the necessary packages:
----------------------------------------------------------
+
 conda create -n env-StageTwoStacking python=3.9  
 conda activate env-StageTwoStacking  
 
